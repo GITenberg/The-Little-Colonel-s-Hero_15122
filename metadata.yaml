@@ -1,0 +1,42 @@
+_repo: The-Little-Colonel-s-Hero_15122
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barry, Etheldred B. (Etheldred Breeze)
+    aliases:
+    - Barry, Ethelred Breeze
+    - Barry, E. B. (Etheldred Breeze)
+    - Barry, Etheldred Breeze
+    birthdate: 1870
+    gutenberg_agent_id: '6348'
+    url: http://www.gutenberg.org/2009/agents/6348
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnston, Annie F. (Annie Fellows)
+    aliases:
+    - Johnston, Annie Fellows
+    - Fellows, Annie
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '3050'
+    url: http://www.gutenberg.org/2009/agents/3050
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15122'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Kentucky -- Social life and customs -- 19th century -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Little Colonel's Hero
+url: http://www.gutenberg.org/ebooks/15122
